@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keyboard_symbols")(type "KiCad")(uri "/home/xtremejames1/Documents/KiCad/keyboard/keyboardsymbols.kicad_sym")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "/home/xtremejames1/Documents/KiCad/kleeb-master/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "display")(type "KiCad")(uri "/home/xtremejames1/Documents/KiCad/kleeb-master/display.kicad_sym")(options "")(descr ""))
+  (lib (name "keyboard")(type "KiCad")(uri "/home/xtremejames1/.local/share/kicad/7.0/symbols/keyboard.kicad_sym")(options "")(descr ""))
+)
