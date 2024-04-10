@@ -470,8 +470,8 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
+      "step": "xtremekeyboard1.step",
+      "svg": "./",
       "vrml": ""
     },
     "page_layout_descr_file": ""
