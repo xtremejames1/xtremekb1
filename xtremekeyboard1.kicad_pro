@@ -471,7 +471,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "xtremekeyboard1.step",
-      "svg": "./",
+      "svg": "./pcbsvg",
       "vrml": ""
     },
     "page_layout_descr_file": ""
